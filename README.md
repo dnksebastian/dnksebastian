@@ -22,7 +22,6 @@ In addition to programming, I am interested in digital marketing and SEO. In my 
 
 </br></br>
 
-
 <h3 align="center">What I'm planning to learn in due course</h3>
 
 <div align="center" style="display:flex;">
