@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">Self-learning JS and Python dev</h3>
 
-
 </br></br>
 <div align="center">
 <p>🌱 I’m currently learning JS, Python and Sass</p>
