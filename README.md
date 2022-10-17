@@ -22,7 +22,5 @@ In addition to programming, I am interested in digital marketing and SEO. In my 
 </br></br>
 
 
-</br></br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dnksebastian&label=Profile%20views&color=30b50f&style=flat" alt="dnksebastian" /> </p>
 </div>
