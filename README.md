@@ -3,9 +3,6 @@
 
 </br></br>
 <div align="center">
-<p>🌱 I’m currently learning JS, Python and Sass</p>
-
-</br></br>
 
 <h3 align="center">Languages and Tools I'm currently working on:</h3>
 
