@@ -4,9 +4,6 @@
 </br></br>
 <div align="center">
 <p>🌱 I’m currently learning JS, Python and Sass</p>
-<p>I decided to learn programming because I would like to use these skills not only to change my career path, but also to support non-profit initiatives that are important to me. I agree with the 80,000 hours philosophy.
-In addition to programming, I am interested in digital marketing and SEO. In my spare time I enjoy reading non-fiction books and watching documentaries.</p>
-</div>
 
 </br></br>
 
@@ -20,7 +17,6 @@ In addition to programming, I am interested in digital marketing and SEO. In my 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 </br></br>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dnksebastian&label=Profile%20views&color=30b50f&style=flat" alt="dnksebastian" /> </p>
 </div>
