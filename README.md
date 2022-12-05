@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">Currently self-learning JS and Python</h3>
+<h3 align="center">Currently learning JS and Python</h3>
 
 </br></br>
 
 <div align="center">
-  <p align="justify">Welcome to my GitHub profile! Here I publish various projects which I'm working on as part of my exercises from various online courses. I am interested in animal rights and ecology, and in my spare time I like to read non-fiction books and watch documentaries. If you would like to code something together or exchange experiences, feel free to contact me via Facebook or LinkedIn. Cheers!</p>
+  <p align="justify">Welcome to my GitHub profile! Here I publish various projects which I'm working on as part of my exercises from online courses. If you would like to code something together or exchange experiences, feel free to contact me via Facebook or LinkedIn. Cheers!</p>
 </div>
 
 </br></br>
