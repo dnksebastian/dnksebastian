@@ -9,7 +9,6 @@
 
 </br></br>
 
-
 <div align="center">
 
 <h3 align="center">Languages and Tools I'm currently working on:</h3>
