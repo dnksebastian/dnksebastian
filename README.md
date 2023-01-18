@@ -20,6 +20,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
+  
 </br></br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dnksebastian&label=Profile%20views&color=30b50f&style=flat" alt="dnksebastian" /> </p>
