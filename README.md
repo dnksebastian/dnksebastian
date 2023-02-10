@@ -4,7 +4,7 @@
 </br></br>
 
 <div align="center">
-  <p align="justify">Welcome to my GitHub profile! Here I publish various projects which I'm working on as part of my exercises from online courses. If you would like to code something together or exchange experiences, feel free to contact me via Facebook or LinkedIn. Cheers!</p>
+  <p align="justify">Welcome to my GitHub profile! Here I publish various projects which I'm working on as part of my exercises from online courses. If you would like to code something together or exchange experiences, feel free to contact me via <a href="https://www.facebook.com/sebastian.dulniawka">Facebook</a> or <a href="https://www.linkedin.com/in/sebastian-dulniawka/">LinkedIn</a>. Cheers!</p>
 </div>
 
 </br></br>
