@@ -6,7 +6,7 @@
 <div align="center">
 <p align="center">Welcome to my GitHub profile! Here I publish various projects which I'm working on as part of my exercises from online courses. If you would like to code something together or exchange experiences, feel free to contact me via:
 
-  
+
   </br>
   
   <div align="center">
