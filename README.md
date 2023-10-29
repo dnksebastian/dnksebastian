@@ -18,7 +18,7 @@ Currently, I'm working on:
 - expanding TypeScript knowledge,
 - learning test-driven development and best practices in order to write clean, efficient code.
 
-I'm also planning to dive deeper into Wordpress in order to be able to create quick yet functional projects. I'd also like to become proficient with Python for automation purposes. I'm also aiming to join open source projects as well as actively support non-profit organisations.
+I'm also planning to dive deeper into Wordpress in order to be able to create quick yet functional projects. I'd also like to become proficient with Python for automation purposes. I'm aiming to join open source projects as well as actively support non-profit organisations.
 
 ## 💼 Projects
 
