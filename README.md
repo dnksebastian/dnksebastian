@@ -40,7 +40,7 @@ Responsive component created with React and React Hook Form.
 </br>
 </br>
 
-And many, many more! Check my [Frontend Mentor](https://www.frontendmentor.io/profile/dnksebastian) profile with numerous completed projects.
+And many, many more! Check out my [Frontend Mentor](https://www.frontendmentor.io/profile/dnksebastian) profile with numerous completed projects.
 
 ## 📫 Contact
 
