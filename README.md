@@ -1,6 +1,6 @@
 # Hello, I'm Sebastian! 👋
 
-I'm a self-taught JavaScript programmer & SEO specialist interested in modern web technologies. My goal is to create user-friendly, optimised, responsive and engaging applications while constantly learning new skills and solutions in order to become a professional front-end developer.
+I'm a self-taught JavaScript programmer & SEO specialist interested in modern web technologies. My goal is to create user-friendly, optimised, responsive and engaging applications while constantly learning new skills and solutions in order to become a professional fullstack developer.
 
 ## 🔧 Skills
 - **Languages:** JavaScript, basic TypeScript, HTML, CSS,
@@ -8,17 +8,17 @@ I'm a self-taught JavaScript programmer & SEO specialist interested in modern we
 - **Backend:** Node.js, Express.js, basic Wordpress,
 - **Databases:** MongoDB,
 - **Testing tools:** Jest, React Testing Library, Vitest, Cypress,
-- **Tools:** Git, Vite
+- **Tools:** Git, Vite.
 
 ## 📖 Learning
 
-Currently, I'm working on:
+Currently I'm working on:
 
 - refining full-stack skills,
 - expanding TypeScript knowledge,
 - learning test-driven development and best practices in order to write clean, efficient code.
 
-I'm also planning to dive deeper into Wordpress in order to be able to create quick yet functional projects. I'd also like to become proficient with Python for automation purposes. I'm aiming to join open source projects as well as actively support non-profit organisations.
+I'm also planning to dive deeper into Wordpress to be able to create quick yet functional projects. I'd also like to become proficient with Python for automation purposes. I'm aiming to join open source projects as well as actively support non-profit organisations.
 
 ## 💼 Projects
 
@@ -31,10 +31,13 @@ Responsive calculator app with a color theme switch.
 ### Project 3: [Interactive Comments Component](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/interactive-comments-section-main)
 Dynamic CRUD component with state saved to browser storage.
 
-### Project 4: [ToDo App](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/todo-app-main)
+### Project 4: [Pet Hotel Company Page](https://github.com/dnksebastian/pethotel-page)
+A responsive company page with slide carousel and contact form. Created in React with React Hook Form and Embla.
+
+### Project 5: [ToDo App](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/todo-app-main)
 ToDo App with bonus features such as drag&drop list reorder, theme toggle and filtering.
 
-### Project 5: [Multi Step Form Component](https://github.com/dnksebastian/Frontend-Mentor-Advanced-Solutions/tree/main/multi-step-form)
+### Project 6: [Multi Step Form Component](https://github.com/dnksebastian/Frontend-Mentor-Advanced-Solutions/tree/main/multi-step-form)
 Responsive component created with React and React Hook Form.
 
 </br>
