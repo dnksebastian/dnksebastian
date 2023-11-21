@@ -8,7 +8,7 @@ I'm a self-taught JavaScript programmer & SEO specialist interested in modern we
 - **Backend:** Node.js, Express.js, basic Wordpress,
 - **Databases:** MongoDB,
 - **Testing tools:** Jest, React Testing Library, Vitest, Cypress,
-- **Tools:** Git, Vite.
+- **Tools:** Git, Vite, Postman.
 
 ## 📖 Learning
 
