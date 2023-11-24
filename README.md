@@ -22,22 +22,25 @@ I'm also planning to dive deeper into Wordpress to be able to create quick yet f
 
 ## 💼 Projects
 
-### Project 1: [Rock, Paper, Scissors Game](https://github.com/dnksebastian/Frontend-Mentor-Advanced-Solutions/tree/main/rock-paper-scissors)
+### Project 1: [Fullstack Cookbook App](https://github.com/dnksebastian/cookbook-app)
+An example fullstack CRUD project - Cookbook app. It features user management, a simple but responsive layout, basic validation, persisting theme with dark/light mode toggle and backend tests.
+
+### Project 2: [Rock, Paper, Scissors Game](https://github.com/dnksebastian/Frontend-Mentor-Advanced-Solutions/tree/main/rock-paper-scissors)
 A classic Rock, Paper, Scissors game created with React. In this project I've implemented saving game score to local storage, there's also a bonus game mode available.
 
-### Project 2: [Calculator App](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/calculator-app-main)
+### Project 3: [Calculator App](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/calculator-app-main)
 Responsive calculator app with a color theme switch.
 
-### Project 3: [Interactive Comments Component](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/interactive-comments-section-main)
+### Project 4: [Interactive Comments Component](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/interactive-comments-section-main)
 Dynamic CRUD component with state saved to browser storage.
 
-### Project 4: [Pet Hotel Company Page](https://github.com/dnksebastian/pethotel-page)
+### Project 5: [Pet Hotel Company Page](https://github.com/dnksebastian/pethotel-page)
 A responsive company page with slide carousel and contact form. Created in React with React Hook Form and Embla.
 
-### Project 5: [ToDo App](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/todo-app-main)
+### Project 6: [ToDo App](https://github.com/dnksebastian/Frontend-Mentor-Intermediate-Solutions/tree/main/todo-app-main)
 ToDo App with bonus features such as drag&drop list reorder, theme toggle and filtering.
 
-### Project 6: [Multi Step Form Component](https://github.com/dnksebastian/Frontend-Mentor-Advanced-Solutions/tree/main/multi-step-form)
+### Project 7: [Multi Step Form Component](https://github.com/dnksebastian/Frontend-Mentor-Advanced-Solutions/tree/main/multi-step-form)
 Responsive component created with React and React Hook Form.
 
 </br>
